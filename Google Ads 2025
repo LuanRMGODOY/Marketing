@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campanhas de Google Ads</title>
+<style>
+  body { margin:0; padding:0; background-color:#f6f8fb; font-family: Arial, Helvetica, sans-serif; }
+  table { border-spacing:0; }
+  td { padding:0; }
+  img { border:0; }
+  .content { width:100%; max-width:680px; background-color:#ffffff; border-radius:6px; }
+  .header { background:#0b66ff; color:#ffffff; padding:30px 20px; text-align:center; }
+  .hero-title { font-size:22px; font-weight:bold; line-height:28px; margin-bottom:10px; }
+  .hero-sub { font-size:14px; line-height:20px; }
+  .section { padding:25px 20px; }
+  .h2 { font-size:18px; color:#102a43; font-weight:bold; margin-bottom:12px; }
+  .p { font-size:14px; color:#344054; line-height:20px; margin-bottom:12px; }
+  .cta { display:inline-block; background:#ff6b00; color:#ffffff; padding:12px 20px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px; }
+  .plan-box { border:1px solid #e6eefc; border-radius:4px; padding:15px; margin-bottom:12px; }
+  .plan-title { font-weight:bold; font-size:16px; color:#102a43; margin-bottom:6px; }
+  .plan-price { font-size:20px; font-weight:bold; color:#0b66ff; margin-bottom:8px; }
+  .plan-list { font-size:13px; color:#344054; margin:0; padding-left:18px; text-align:left; }
+  .testimonial { border-left:4px solid #0b66ff; padding-left:10px; font-size:13px; color:#102a43; margin:15px 0; }
+  .footer { font-size:12px; color:#607080; background:#fbfdff; padding:18px; text-align:center; }
+  a { color:#0b66ff; }
+</style>
+</head>
+<body>
+  <center style="width:100%; background:#f6f8fb; padding:20px 0;">
+    <table role="presentation" class="content">
+      <!-- Header -->
+      <tr>
+        <td class="header">
+          <div style="font-size:20px; font-weight:bold;">Campanhas de Google Ads</div>
+          <div class="hero-title">Faça seu negócio aparecer para quem já está pronto para comprar</div>
+          <div class="hero-sub">Pare de depender da sorte — esteja no topo do Google quando o cliente mais precisa</div>
+        </td>
+      </tr>
+
+      <!-- Body -->
+      <tr>
+        <td class="section">
+          <div class="h2">Você está perdendo vendas sem saber</div>
+          <div class="p">Mais de <strong>8 bilhões de buscas</strong> são feitas por dia no Google. Se sua empresa não aparece no momento em que alguém procura pelo seu produto ou serviço, <strong>vendas deixam de acontecer</strong>.</div>
+
+          <div class="h2">O que você ganha com Google Ads</div>
+          <ul class="p" style="padding-left:18px; text-align:left;">
+            <li><strong>Alta intenção de compra</strong> — Alcança quem já está procurando por você.</li>
+            <li><strong>Resultados rápidos</strong> — Campanhas gerando cliques e leads em poucos dias.</li>
+            <li><strong>Segmentação cirúrgica</strong> — Você escolhe onde, quando e para quem aparecer.</li>
+          </ul>
+
+          <div style="text-align:center; margin:20px 0;">
+            <a href="https://campanhasdegoogleads.com.br/?utm_source=email" class="cta">Quero um gestor de resultados</a>
+          </div>
+
+          <div class="testimonial">
+            <strong>"A melhor decisão que já tomamos!"</strong><br>
+            Bruno Rodrigues — SLR Soluções
+          </div>
+
+          <div class="h2">Planos</div>
+          <table role="presentation" width="100%">
+            <tr>
+              <td class="plan-box" valign="top">
+                <div class="plan-title">Plano Básico</div>
+                <div class="plan-price">R$ 650/mês</div>
+                <ul class="plan-list">
+                  <li>Landing Page inclusa</li>
+                  <li>Campanhas no Google Ads</li>
+                  <li>Relatório semanal</li>
+                </ul>
+                <div style="text-align:center; margin-top:10px;">
+                  <a href="https://api.whatsapp.com/send?phone=5547997484880&text=Quero%20Plano%20B%C3%A1sico" class="cta">Contratar</a>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td class="plan-box" valign="top">
+                <div class="plan-title">Plano Avançado</div>
+                <div class="plan-price">R$ 1.250/mês</div>
+                <ul class="plan-list">
+                  <li>Landing Page inclusa</li>
+                  <li>Campanhas no Google Ads</li>
+                  <li>Gerenciamento Google Meu Negócio</li>
+                  <li>Tagueamento do site</li>
+                </ul>
+                <div style="text-align:center; margin-top:10px;">
+                  <a href="https://api.whatsapp.com/send?phone=5547997484880&text=Quero%20Plano%20Avan%C3%A7ado" class="cta">Contratar</a>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td class="plan-box" valign="top">
+                <div class="plan-title">Google + Meta Ads</div>
+                <div class="plan-price">R$ 1.500/mês</div>
+                <ul class="plan-list">
+                  <li>Landing Page inclusa</li>
+                  <li>Campanhas Google Ads</li>
+                  <li>Tráfego pago no Meta Ads</li>
+                  <li>Relatório semanal</li>
+                </ul>
+                <div style="text-align:center; margin-top:10px;">
+                  <a href="https://api.whatsapp.com/send?phone=5547997484880&text=Quero%20Google%20%2B%20Meta%20Ads" class="cta">Contratar</a>
+                </div>
+              </td>
+            </tr>
+          </table>
+
+          <div class="h2">Quer conversar?</div>
+          <div class="p">Nossa equipe tem atendimento 24h: madrugadas, finais de semana e feriados. Não venda mais barato — venda melhor. Seus clientes estão esperando por você.</div>
+
+          <div style="text-align:center; margin:20px 0;">
+            <a href="https://campanhasdegoogleads.com.br/?utm_source=email" class="cta">Solicitar contato</a>
+          </div>
+        </td>
+      </tr>
+
+      <!-- Footer -->
+      <tr>
+        <td class="footer">
+          Trabalhamos com: Social Mídia • Tráfego Pago • Mail Marketing • Webdesign<br><br>
+          Você recebeu este e‑mail porque se inscreveu em nossa lista. Se não deseja mais receber, <a href="#">descadastre-se</a>.
+        </td>
+      </tr>
+    </table>
+  </center>
+</body>
+</html>
