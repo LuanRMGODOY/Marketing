@@ -5,20 +5,16 @@
     <title>Google Ads para Imobiliárias</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <style>
-      /* Resets básicos para clientes que respeitam <style> */
       body,table,td,a{ text-size-adjust:100%; -ms-text-size-adjust:100%; }
       table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
       img{ -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; display:block; }
       a{ text-decoration:none; }
-      /* Dark mode helpers (clientes compatíveis) */
       @media (prefers-color-scheme: dark){
         .bg{ background-color:#0f1114 !important; }
         .card{ background-color:#15181c !important; }
         .text{ color:#e8eaed !important; }
         .muted{ color:#b0b7c3 !important; }
-        .btn{ color:#0f1114 !important; }
       }
-      /* Mobile */
       @media screen and (max-width:600px){
         .container{ width:100% !important; }
         .px{ padding-left:16px !important; padding-right:16px !important; }
@@ -42,7 +38,8 @@
         <td align="center" style="padding:24px 12px;">
           <!-- Container -->
           <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="container card" style="width:600px; background:#111318; border-radius:12px; overflow:hidden;">
-            <!-- Header / Logo -->
+            
+            <!-- Header -->
             <tr>
               <td align="left" class="px" style="padding:24px 32px; background:#0b0d11;">
                 <table role="presentation" width="100%">
@@ -70,112 +67,76 @@
               </td>
             </tr>
 
-            <!-- Vídeo (thumb clicável + play) -->
+            <!-- Vídeo -->
             <tr>
               <td align="center" style="padding:20px 32px 8px 32px;">
-                <a href="https://drive.google.com/file/d/1wkkteC5EkDYBWIPQ8dIIc8nb9xgxhUHr/view?usp=sharing" target="_blank" style="display:block;">
-                  <!-- Use uma thumb do vídeo como HEROSHOT_URL -->
-                  <img src="{{HEROSHOT_URL}}" width="536" alt="Assista: Como dobrar os leads da sua imobiliária com Google Ads" style="width:100%; max-width:536px; border-radius:12px;">
-                </a>
-                <!-- Botão Play sobreposto (fallback simples para clientes que não suportam posicionamento absoluto) -->
-                <a href="{{VIDEO_URL}}" target="_blank" style="display:inline-block; margin-top:-56px; background:#ffffff; padding:12px 18px; border-radius:28px; border:1px solid #e5e7eb;">
-                  ▶ Assista ao vídeo (2 min)
+                <a href="https://drive.google.com/file/d/1wkkteC5EkDYBWIPQ8dIIc8nb9xgxhUHr/view?usp=drive_link" target="_blank" style="display:block;">
+                  <img src="https://i.imgur.com/6CqzQKj.png" 
+                       width="536" 
+                       alt="▶ Assista ao vídeo: Como gerar mais leads com Google Ads para imobiliárias" 
+                       style="width:100%; max-width:536px; border-radius:12px; display:block;">
                 </a>
               </td>
             </tr>
 
-            <!-- Provas/Benefícios -->
+            <!-- Benefícios -->
             <tr>
               <td class="px" style="padding:16px 32px 0 32px;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#0b0d11; border-radius:12px;">
                   <tr>
                     <td class="fallback-font text" style="padding:18px 20px; font:400 14px/22px Arial, Helvetica, sans-serif; color:#dbe3f4;">
                       <strong style="display:block; margin-bottom:8px; font-weight:700;">O que fazemos pela sua imobiliária</strong>
-                      • Estrutura de campanhas por intenção: “alugar apartamento 2 quartos em [bairro]”.<br>
-                      • Extensões de anúncio com <i>call</i>, localização e destaques (plantão, vagas na garagem, pet friendly).<br>
-                      • Segmentação por raio/bairro e ajuste por dispositivos (mobile first).<br>
-                      • Integração de conversões (formulário, WhatsApp, ligações, rota no Maps).<br>
-                      • Otimizações semanais: negativas, termos de pesquisa, lances e criativos RSA/PMAX.<br>
-                      • Relatórios claros com leads, custo por lead e imóveis mais demandados.
+                      • Estrutura de campanhas por intenção<br>
+                      • Extensões de anúncio estratégicas<br>
+                      • Segmentação por bairro/região<br>
+                      • Integração com WhatsApp e CRM<br>
+                      • Otimizações semanais<br>
+                      • Relatórios claros com custo por lead
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
 
-            <!-- Bulletproof CTA -->
+            <!-- CTA -->
             <tr>
               <td align="center" style="padding:20px 32px 0 32px;">
-                <!--[if mso]>
-                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="{{CTA_URL}}" style="height:48px;v-text-anchor:middle;width:340px;" arcsize="50%" strokecolor="#7c3aed" fillcolor="#7c3aed">
-                    <w:anchorlock/>
-                    <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:16px;font-weight:bold;">
-                      Agendar diagnóstico gratuito
-                    </center>
-                  </v:roundrect>
-                <![endif]-->
-                <![if !mso]><a href="{{CTA_URL}}" target="_blank"
+                <a href="{{CTA_URL}}" target="_blank"
                   style="display:inline-block; background:#7c3aed; color:#ffffff; font:700 16px/48px Arial, Helvetica, sans-serif; padding:0 28px; border-radius:28px; text-align:center; min-width:260px;">
                   Agendar diagnóstico gratuito
-                </a><![endif]>
+                </a>
               </td>
             </tr>
 
-            <!-- Destaques em 3 colunas -->
+            <!-- Destaques -->
             <tr>
               <td class="px" style="padding:24px 32px 0 32px;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                   <tr>
                     <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
-                      <strong>Leads com intenção</strong><br>
+                      <strong>Leads qualificados</strong><br>
                       Foco em quem busca agora por imóveis na sua região.
                     </td>
                     <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
-                      <strong>Integra com seu funil</strong><br>
-                      Envio para CRM/WhatsApp e acompanhamento de conversões.
+                      <strong>Integração</strong><br>
+                      Leads enviados direto para WhatsApp ou CRM.
                     </td>
                     <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
                       <strong>Relatórios claros</strong><br>
-                      CPL, termos que mais geram visitas e bairros campeões.
+                      CPL, termos de busca e regiões campeãs.
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
 
-            <!-- Social proof / mini checklist -->
-            <tr>
-              <td class="px" style="padding:24px 32px 0 32px;">
-                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#0b0d11; border-radius:12px;">
-                  <tr>
-                    <td class="fallback-font text" style="padding:18px 20px; font:400 14px/22px Arial, Helvetica, sans-serif; color:#dbe3f4;">
-                      <strong style="display:block; margin-bottom:8px; font-weight:700;">Checklist de qualidade da campanha</strong>
-                      ☐ Conversões (form/ligação/WhatsApp) instaladas e testadas<br>
-                      ☐ Palavras-chave negativas por tipologia e regiões<br>
-                      ☐ Extensões ativas (sitelinks, chamadas, destaque)<br>
-                      ☐ Estratégia de lances adequada ao volume de conversões<br>
-                      ☐ UTM e relatório semanal automáticos
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-
-            <!-- CTA secundário (WhatsApp) -->
+            <!-- CTA secundário -->
             <tr>
               <td align="center" style="padding:22px 32px 0 32px;">
-                <!--[if mso]>
-                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="{{WHATSAPP_URL}}" style="height:44px;v-text-anchor:middle;width:300px;" arcsize="50%" strokecolor="#ffffff" fillcolor="#111318">
-                    <w:anchorlock/>
-                    <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:14px;font-weight:bold;">
-                      Falar no WhatsApp agora
-                    </center>
-                  </v:roundrect>
-                <![endif]-->
-                <![if !mso]><a href="{{WHATSAPP_URL}}" target="_blank"
+                <a href="{{WHATSAPP_URL}}" target="_blank"
                   style="display:inline-block; background:#111318; color:#ffffff; font:700 14px/44px Arial, Helvetica, sans-serif; padding:0 22px; border-radius:24px; border:1px solid #ffffff;">
                   Falar no WhatsApp agora
-                </a><![endif]>
+                </a>
               </td>
             </tr>
 
@@ -183,7 +144,7 @@
             <tr>
               <td class="px" style="padding:28px 32px 32px 32px;">
                 <p class="fallback-font muted" style="margin:0 0 8px 0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
-                  Esta mensagem foi enviada por {{NOME_DA_AGENCIA}} • Especialistas em Google Ads, Social Mídia, Webdesign e Mail Marketing.
+                  Esta mensagem foi enviada por {{NOME_DA_AGENCIA}} • Especialistas em Google Ads, Social Mídia, Webdesign e E-mail Marketing.
                 </p>
                 <p class="fallback-font muted" style="margin:0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
                   <a href="{{POLITICA_PRIVACIDADE_URL}}" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Política de Privacidade</a> •
@@ -191,8 +152,8 @@
                 </p>
               </td>
             </tr>
+
           </table>
-          <!-- /Container -->
         </td>
       </tr>
     </table>
