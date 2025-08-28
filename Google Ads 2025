@@ -1,131 +1,200 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Campanhas de Google Ads</title>
-<style>
-  body { margin:0; padding:0; background-color:#f6f8fb; font-family: Arial, Helvetica, sans-serif; }
-  table { border-spacing:0; }
-  td { padding:0; }
-  img { border:0; }
-  .content { width:100%; max-width:680px; background-color:#ffffff; border-radius:6px; }
-  .header { background:#0b66ff; color:#ffffff; padding:30px 20px; text-align:center; }
-  .hero-title { font-size:22px; font-weight:bold; line-height:28px; margin-bottom:10px; }
-  .hero-sub { font-size:14px; line-height:20px; }
-  .section { padding:25px 20px; }
-  .h2 { font-size:18px; color:#102a43; font-weight:bold; margin-bottom:12px; }
-  .p { font-size:14px; color:#344054; line-height:20px; margin-bottom:12px; }
-  .cta { display:inline-block; background:#ff6b00; color:#ffffff; padding:12px 20px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px; }
-  .plan-box { border:1px solid #e6eefc; border-radius:4px; padding:15px; margin-bottom:12px; }
-  .plan-title { font-weight:bold; font-size:16px; color:#102a43; margin-bottom:6px; }
-  .plan-price { font-size:20px; font-weight:bold; color:#0b66ff; margin-bottom:8px; }
-  .plan-list { font-size:13px; color:#344054; margin:0; padding-left:18px; text-align:left; }
-  .testimonial { border-left:4px solid #0b66ff; padding-left:10px; font-size:13px; color:#102a43; margin:15px 0; }
-  .footer { font-size:12px; color:#607080; background:#fbfdff; padding:18px; text-align:center; }
-  a { color:#0b66ff; }
-</style>
-</head>
-<body>
-  <center style="width:100%; background:#f6f8fb; padding:20px 0;">
-    <table role="presentation" class="content">
-      <!-- Header -->
+  <head>
+    <meta charset="utf-8">
+    <title>Google Ads para Imobiliárias</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+      /* Resets básicos para clientes que respeitam <style> */
+      body,table,td,a{ text-size-adjust:100%; -ms-text-size-adjust:100%; }
+      table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
+      img{ -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; display:block; }
+      a{ text-decoration:none; }
+      /* Dark mode helpers (clientes compatíveis) */
+      @media (prefers-color-scheme: dark){
+        .bg{ background-color:#0f1114 !important; }
+        .card{ background-color:#15181c !important; }
+        .text{ color:#e8eaed !important; }
+        .muted{ color:#b0b7c3 !important; }
+        .btn{ color:#0f1114 !important; }
+      }
+      /* Mobile */
+      @media screen and (max-width:600px){
+        .container{ width:100% !important; }
+        .px{ padding-left:16px !important; padding-right:16px !important; }
+        .stack{ display:block !important; width:100% !important; }
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+        .fallback-font{ font-family: Arial, sans-serif !important; }
+      </style>
+    <![endif]-->
+  </head>
+  <body class="bg" style="margin:0; padding:0; background-color:#0e0f13;">
+    <!-- Preheader (oculto) -->
+    <div style="display:none; max-height:0; overflow:hidden; opacity:0; visibility:hidden; mso-hide:all;">
+      Gere mais leads qualificados de compra e locação com Google Ads para a sua imobiliária.
+    </div>
+
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#0e0f13;">
       <tr>
-        <td class="header">
-          <div style="font-size:20px; font-weight:bold;">Campanhas de Google Ads</div>
-          <div class="hero-title">Faça seu negócio aparecer para quem já está pronto para comprar</div>
-          <div class="hero-sub">Pare de depender da sorte — esteja no topo do Google quando o cliente mais precisa</div>
-        </td>
-      </tr>
-
-      <!-- Body -->
-      <tr>
-        <td class="section">
-          <div class="h2">Você está perdendo vendas sem saber</div>
-          <div class="p">Mais de <strong>8 bilhões de buscas</strong> são feitas por dia no Google. Se sua empresa não aparece no momento em que alguém procura pelo seu produto ou serviço, <strong>vendas deixam de acontecer</strong>.</div>
-
-          <div class="h2">O que você ganha com Google Ads</div>
-          <ul class="p" style="padding-left:18px; text-align:left;">
-            <li><strong>Alta intenção de compra</strong> — Alcança quem já está procurando por você.</li>
-            <li><strong>Resultados rápidos</strong> — Campanhas gerando cliques e leads em poucos dias.</li>
-            <li><strong>Segmentação cirúrgica</strong> — Você escolhe onde, quando e para quem aparecer.</li>
-          </ul>
-
-          <div style="text-align:center; margin:20px 0;">
-            <a href="https://campanhasdegoogleads.com.br/?utm_source=email" class="cta">Quero um gestor de resultados</a>
-          </div>
-
-          <div class="testimonial">
-            <strong>"A melhor decisão que já tomamos!"</strong><br>
-            Bruno Rodrigues — SLR Soluções
-          </div>
-
-          <div class="h2">Planos</div>
-          <table role="presentation" width="100%">
+        <td align="center" style="padding:24px 12px;">
+          <!-- Container -->
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="container card" style="width:600px; background:#111318; border-radius:12px; overflow:hidden;">
+            <!-- Header / Logo -->
             <tr>
-              <td class="plan-box" valign="top">
-                <div class="plan-title">Plano Básico</div>
-                <div class="plan-price">R$ 650/mês</div>
-                <ul class="plan-list">
-                  <li>Landing Page inclusa</li>
-                  <li>Campanhas no Google Ads</li>
-                  <li>Relatório semanal</li>
-                </ul>
-                <div style="text-align:center; margin-top:10px;">
-                  <a href="https://wa.me/5547997484880" class="cta">Contratar</a>
-                </div>
+              <td align="left" class="px" style="padding:24px 32px; background:#0b0d11;">
+                <table role="presentation" width="100%">
+                  <tr>
+                    <td width="44" valign="middle">
+                      <img src="{{LOGO_URL}}" width="44" height="44" alt="Logo" style="border-radius:8px;">
+                    </td>
+                    <td align="right" class="fallback-font" style="font:600 14px/1 Arial, Helvetica, sans-serif; color:#c7d2fe; letter-spacing:.4px;">
+                      Gestão de Google Ads para Imobiliárias
+                    </td>
+                  </tr>
+                </table>
               </td>
             </tr>
+
+            <!-- Hero -->
             <tr>
-              <td class="plan-box" valign="top">
-                <div class="plan-title">Plano Avançado</div>
-                <div class="plan-price">R$ 1.250/mês</div>
-                <ul class="plan-list">
-                  <li>Landing Page inclusa</li>
-                  <li>Campanhas no Google Ads</li>
-                  <li>Gerenciamento Google Meu Negócio</li>
-                  <li>Tagueamento do site</li>
-                </ul>
-                <div style="text-align:center; margin-top:10px;">
-                  <a href="https://wa.me/5547997484880" class="cta">Contratar</a>
-                </div>
+              <td align="left" class="px" style="padding:28px 32px 0 32px;">
+                <h1 class="fallback-font text" style="margin:0 0 8px 0; font:700 28px/34px Arial, Helvetica, sans-serif; color:#ffffff;">
+                  Mais visitas nos imóveis certos. Mais propostas na sua caixa de entrada.
+                </h1>
+                <p class="fallback-font muted" style="margin:0; font:400 15px/22px Arial, Helvetica, sans-serif; color:#aab3c5;">
+                  Campanhas inteligentes no Google Ads para capturar leads de compra e locação com alta intenção em <b>bairro</b>, <b>tipologia</b> e <b>faixa de preço</b>.
+                </p>
               </td>
             </tr>
+
+            <!-- Vídeo (thumb clicável + play) -->
             <tr>
-              <td class="plan-box" valign="top">
-                <div class="plan-title">Google + Meta Ads</div>
-                <div class="plan-price">R$ 1.500/mês</div>
-                <ul class="plan-list">
-                  <li>Landing Page inclusa</li>
-                  <li>Campanhas Google Ads</li>
-                  <li>Tráfego pago no Meta Ads</li>
-                  <li>Relatório semanal</li>
-                </ul>
-                <div style="text-align:center; margin-top:10px;">
-                  <a href="https://wa.me/5547997484880" class="cta">Contratar</a>
-                </div>
+              <td align="center" style="padding:20px 32px 8px 32px;">
+                <a href="{{VIDEO_URL}}" target="_blank" style="display:block;">
+                  <!-- Use uma thumb do vídeo como HEROSHOT_URL -->
+                  <img src="{{HEROSHOT_URL}}" width="536" alt="Assista: Como dobrar os leads da sua imobiliária com Google Ads" style="width:100%; max-width:536px; border-radius:12px;">
+                </a>
+                <!-- Botão Play sobreposto (fallback simples para clientes que não suportam posicionamento absoluto) -->
+                <a href="{{VIDEO_URL}}" target="_blank" style="display:inline-block; margin-top:-56px; background:#ffffff; padding:12px 18px; border-radius:28px; border:1px solid #e5e7eb;">
+                  ▶ Assista ao vídeo (2 min)
+                </a>
+              </td>
+            </tr>
+
+            <!-- Provas/Benefícios -->
+            <tr>
+              <td class="px" style="padding:16px 32px 0 32px;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#0b0d11; border-radius:12px;">
+                  <tr>
+                    <td class="fallback-font text" style="padding:18px 20px; font:400 14px/22px Arial, Helvetica, sans-serif; color:#dbe3f4;">
+                      <strong style="display:block; margin-bottom:8px; font-weight:700;">O que fazemos pela sua imobiliária</strong>
+                      • Estrutura de campanhas por intenção: “alugar apartamento 2 quartos em [bairro]”.<br>
+                      • Extensões de anúncio com <i>call</i>, localização e destaques (plantão, vagas na garagem, pet friendly).<br>
+                      • Segmentação por raio/bairro e ajuste por dispositivos (mobile first).<br>
+                      • Integração de conversões (formulário, WhatsApp, ligações, rota no Maps).<br>
+                      • Otimizações semanais: negativas, termos de pesquisa, lances e criativos RSA/PMAX.<br>
+                      • Relatórios claros com leads, custo por lead e imóveis mais demandados.
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Bulletproof CTA -->
+            <tr>
+              <td align="center" style="padding:20px 32px 0 32px;">
+                <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="{{CTA_URL}}" style="height:48px;v-text-anchor:middle;width:340px;" arcsize="50%" strokecolor="#7c3aed" fillcolor="#7c3aed">
+                    <w:anchorlock/>
+                    <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:16px;font-weight:bold;">
+                      Agendar diagnóstico gratuito
+                    </center>
+                  </v:roundrect>
+                <![endif]-->
+                <![if !mso]><a href="{{CTA_URL}}" target="_blank"
+                  style="display:inline-block; background:#7c3aed; color:#ffffff; font:700 16px/48px Arial, Helvetica, sans-serif; padding:0 28px; border-radius:28px; text-align:center; min-width:260px;">
+                  Agendar diagnóstico gratuito
+                </a><![endif]>
+              </td>
+            </tr>
+
+            <!-- Destaques em 3 colunas -->
+            <tr>
+              <td class="px" style="padding:24px 32px 0 32px;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
+                      <strong>Leads com intenção</strong><br>
+                      Foco em quem busca agora por imóveis na sua região.
+                    </td>
+                    <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
+                      <strong>Integra com seu funil</strong><br>
+                      Envio para CRM/WhatsApp e acompanhamento de conversões.
+                    </td>
+                    <td class="stack fallback-font text" width="33.33%" style="vertical-align:top; padding:12px; font:400 14px/20px Arial, Helvetica, sans-serif; color:#e7ecf7; background:#111318; border:1px solid #1a1f29; border-radius:10px;">
+                      <strong>Relatórios claros</strong><br>
+                      CPL, termos que mais geram visitas e bairros campeões.
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Social proof / mini checklist -->
+            <tr>
+              <td class="px" style="padding:24px 32px 0 32px;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#0b0d11; border-radius:12px;">
+                  <tr>
+                    <td class="fallback-font text" style="padding:18px 20px; font:400 14px/22px Arial, Helvetica, sans-serif; color:#dbe3f4;">
+                      <strong style="display:block; margin-bottom:8px; font-weight:700;">Checklist de qualidade da campanha</strong>
+                      ☐ Conversões (form/ligação/WhatsApp) instaladas e testadas<br>
+                      ☐ Palavras-chave negativas por tipologia e regiões<br>
+                      ☐ Extensões ativas (sitelinks, chamadas, destaque)<br>
+                      ☐ Estratégia de lances adequada ao volume de conversões<br>
+                      ☐ UTM e relatório semanal automáticos
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- CTA secundário (WhatsApp) -->
+            <tr>
+              <td align="center" style="padding:22px 32px 0 32px;">
+                <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="{{WHATSAPP_URL}}" style="height:44px;v-text-anchor:middle;width:300px;" arcsize="50%" strokecolor="#ffffff" fillcolor="#111318">
+                    <w:anchorlock/>
+                    <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:14px;font-weight:bold;">
+                      Falar no WhatsApp agora
+                    </center>
+                  </v:roundrect>
+                <![endif]-->
+                <![if !mso]><a href="{{WHATSAPP_URL}}" target="_blank"
+                  style="display:inline-block; background:#111318; color:#ffffff; font:700 14px/44px Arial, Helvetica, sans-serif; padding:0 22px; border-radius:24px; border:1px solid #ffffff;">
+                  Falar no WhatsApp agora
+                </a><![endif]>
+              </td>
+            </tr>
+
+            <!-- Rodapé -->
+            <tr>
+              <td class="px" style="padding:28px 32px 32px 32px;">
+                <p class="fallback-font muted" style="margin:0 0 8px 0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
+                  Esta mensagem foi enviada por {{NOME_DA_AGENCIA}} • Especialistas em Google Ads, Social Mídia, Webdesign e Mail Marketing.
+                </p>
+                <p class="fallback-font muted" style="margin:0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
+                  <a href="{{POLITICA_PRIVACIDADE_URL}}" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Política de Privacidade</a> •
+                  <a href="{{DESCADASTRAR_URL}}" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Descadastrar</a>
+                </p>
               </td>
             </tr>
           </table>
-
-          <div class="h2">Possui Dúvidas?</div>
-          <div class="p">Nossa equipe tem atendimento 24h: madrugadas, finais de semana e feriados. Não venda mais barato — venda melhor. Seus clientes estão esperando por você.</div>
-
-          <div style="text-align:center; margin:20px 0;">
-            <a href="https://campanhasdegoogleads.com.br/?utm_source=email" class="cta">Solicitar contato</a>
-          </div>
-        </td>
-      </tr>
-
-      <!-- Footer -->
-      <tr>
-        <td class="footer">
-          Trabalhamos com: Social Mídia • Tráfego Pago • Mail Marketing • Webdesign<br><br>
-          Você recebeu este e‑mail porque se inscreveu em nossa lista. Se não deseja mais receber, <a href="https://app.getbee.io/nl/3.40.0/*%7C%7CUNSUBSCRIBE_LINK%7C%7C*">descadastre-se</a>.
+          <!-- /Container -->
         </td>
       </tr>
     </table>
-  </center>
-</body>
+  </body>
 </html>
