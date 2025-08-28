@@ -73,7 +73,7 @@
             <!-- Vídeo (thumb clicável + play) -->
             <tr>
               <td align="center" style="padding:20px 32px 8px 32px;">
-                <a href="{{VIDEO_URL}}" target="_blank" style="display:block;">
+                <a href="https://drive.google.com/file/d/1wkkteC5EkDYBWIPQ8dIIc8nb9xgxhUHr/view?usp=sharing" target="_blank" style="display:block;">
                   <!-- Use uma thumb do vídeo como HEROSHOT_URL -->
                   <img src="{{HEROSHOT_URL}}" width="536" alt="Assista: Como dobrar os leads da sua imobiliária com Google Ads" style="width:100%; max-width:536px; border-radius:12px;">
                 </a>
