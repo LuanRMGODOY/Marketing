@@ -107,7 +107,7 @@
             <!-- CTA -->
             <tr>
               <td align="center" style="padding:20px 32px 0 32px;">
-                <a href="{{CTA_URL}}" target="_blank"
+                <a href="https://wa.me/5547999231666" target="_blank"
                   style="display:inline-block; background:#7c3aed; color:#ffffff; font:700 16px/48px Arial, Helvetica, sans-serif; padding:0 28px; border-radius:28px; text-align:center; min-width:260px;">
                   Agendar diagnóstico gratuito
                 </a>
@@ -139,7 +139,7 @@
             <!-- CTA secundário -->
             <tr>
               <td align="center" style="padding:22px 32px 0 32px;">
-                <a href="{{WHATSAPP_URL}}" target="_blank"
+                <a href="https://wa.me/5547999231666" target="_blank"
                   style="display:inline-block; background:#111318; color:#ffffff; font:700 14px/44px Arial, Helvetica, sans-serif; padding:0 22px; border-radius:24px; border:1px solid #ffffff;">
                   Falar no WhatsApp agora
                 </a>
@@ -150,11 +150,11 @@
             <tr>
               <td class="px" style="padding:28px 32px 32px 32px;">
                 <p class="fallback-font muted" style="margin:0 0 8px 0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
-                  Esta mensagem foi enviada por {{NOME_DA_AGENCIA}} • Especialistas em Google Ads, Social Mídia, Webdesign e E-mail Marketing.
+                  Esta mensagem foi enviada por HEAD MARKETING E VÍDEO • Especialistas em Google Ads, Social Mídia, Webdesign e muito mais.
                 </p>
                 <p class="fallback-font muted" style="margin:0; font:400 12px/18px Arial, Helvetica, sans-serif; color:#9aa4b2;">
-                  <a href="{{POLITICA_PRIVACIDADE_URL}}" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Política de Privacidade</a> •
-                  <a href="{{DESCADASTRAR_URL}}" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Descadastrar</a>
+                  <a href="https://headmarketingeprodutora.com.br/?page_id=3&preview=true" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Política de Privacidade</a> •
+                  <a href="https://app.getbee.io/nl/3.41.0/*%7C%7CUNSUBSCRIBE_LINK%7C%7C*" target="_blank" style="color:#c7d2fe; text-decoration:underline;">Descadastrar</a>
                 </p>
               </td>
             </tr>
