@@ -22,7 +22,7 @@
 
 <!-- Preheader -->
 <div style="display:none; max-height:0; overflow:hidden; opacity:0; visibility:hidden;">
-Imobiliárias estão gerando mais leads qualificados com campanhas inteligentes no Google Ads — veja como.
+Descubra como imobiliárias estão dobrando os leads e vendendo mais imóveis com Google Ads.
 </div>
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -46,26 +46,37 @@ Imobiliárias estão gerando mais leads qualificados com campanhas inteligentes 
 <!-- Hero -->
 <tr>
 <td align="left" class="px" style="padding:28px 32px 0 32px;">
-  <h1 style="margin:0 0 10px; font:700 28px/34px Arial, sans-serif; color:#ffffff;">
-    Venda imóveis mais rápido com anúncios que aparecem para quem possui <u>real interesse</u>
+  <h1 style="margin:0 0 16px; font:700 28px/34px Arial, sans-serif; color:#ffffff;">
+    Venda imóveis mais rápido com anúncios que aparecem para quem <u>procura exatamente o que você oferece</u>
   </h1>
+
+  <!-- CTA imediato -->
+  <div style="text-align:center; margin:0 0 20px;">
+    <a href="https://campanhasdegoogleads.com.br/" target="_blank"
+      style="display:inline-block; background:#6B46FF; color:#ffffff; font:700 17px/50px Arial, sans-serif; 
+             padding:0 34px; border-radius:28px; text-align:center; min-width:260px; 
+             box-shadow:0 0 18px rgba(107,70,255,0.6);">
+      🚀 Quero Atrair Compradores Hoje
+    </a>
+  </div>
+
   <p style="font:400 15px/22px Arial, sans-serif; color:#aab3c5; margin:0;">
-    💬 "Os Clientes chegam mais qualificados" — diz <b>Luiz Miranda</b>, corretor premiado pela Embraed.  
-    Agora é sua vez de transformar o Google Ads no seu maior canal de vendas.
+    💬 “Os clientes chegam mais qualificados” — diz <b>Luiz Miranda</b>, corretor premiado pela Embraed.  
+    Agora é sua vez de transformar o Google Ads no seu principal canal de vendas imobiliárias.
   </p>
 </td>
 </tr>
 
 <!-- Vídeo -->
 <tr>
-<td align="center" style="padding:20px 32px 8px;">
+<td align="center" style="padding:22px 32px 8px;">
   <a href="https://www.youtube.com/watch?v=K0vtF5wujiY" target="_blank" style="position:relative; display:inline-block;">
     <img src="https://res.cloudinary.com/dqpcv3k4p/image/upload/v1759193562/Luiz_Google_ADS_1_mjbqlw.jpg" 
          alt="Assista Luiz Miranda falando sobre resultados com Google Ads" 
          width="536" style="width:100%; max-width:536px; border-radius:12px;">
     <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-                background:rgba(255,75,0,130); color:#fff; font:700 18px/24px Arial, sans-serif; 
-                padding:14px 20px; border-radius:50px; box-shadow:0 0 18px rgba(255,75,0,130);">
+                background:rgba(107,70,255,0.9); color:#fff; font:700 18px/24px Arial, sans-serif; 
+                padding:14px 20px; border-radius:50px; box-shadow:0 0 18px rgba(107,70,255,0.9);">
       ▶ Assistir agora
     </div>
   </a>
@@ -79,11 +90,11 @@ Imobiliárias estão gerando mais leads qualificados com campanhas inteligentes 
     <tr>
       <td style="padding:20px; font:400 15px/24px Arial, sans-serif; color:#dbe3f4;">
         <strong style="display:block; margin-bottom:8px; font-weight:700;">🔥 Resultados que entregamos:</strong>
-        • Leads prontos para visitar imóveis<br>
-        • Campanhas otimizadas por cidade, tipologia e preço<br>
-        • Integração direta com WhatsApp<br>
-        • Relatórios semanais de custo por lead<br>
-        • Ajustes contínuos focados em conversão
+        ✅ Leads prontos para visitar imóveis<br>
+        ✅ Campanhas otimizadas por cidade, tipologia e preço<br>
+        ✅ Integração direta com WhatsApp ou CRM<br>
+        ✅ Relatórios semanais de custo por lead<br>
+        ✅ Ajustes contínuos para maximizar conversões
       </td>
     </tr>
   </table>
@@ -94,13 +105,13 @@ Imobiliárias estão gerando mais leads qualificados com campanhas inteligentes 
 <tr>
 <td align="center" style="padding:28px 32px 0;">
   <a href="https://campanhasdegoogleads.com.br/" target="_blank"
-    style="display:inline-block; background:#5400ff; color:#ffffff; font:700 17px/50px Arial, sans-serif; 
+    style="display:inline-block; background:#6B46FF; color:#ffffff; font:700 17px/50px Arial, sans-serif; 
            padding:0 34px; border-radius:28px; text-align:center; min-width:260px; 
-           box-shadow:0 0 20px rgba(255,75,0,130);">
-    🚀 Quero Obter mais Clientes Agora
+           box-shadow:0 0 20px rgba(107,70,255,0.6);">
+    💡 Quero Vender Meus Imóveis Mais Rápido
   </a>
   <p style="font:400 13px/20px Arial, sans-serif; color:#aab3c5; margin:10px 0 0;">
-    *Sem custo inicial. Diagnóstico 100% gratuito.
+    *Diagnóstico gratuito — vagas limitadas neste mês.
   </p>
 </td>
 </tr>
@@ -128,9 +139,9 @@ Imobiliárias estão gerando mais leads qualificados com campanhas inteligentes 
 <tr>
 <td align="center" style="padding:22px 32px 0;">
   <a href="https://wa.me/5547999231666" target="_blank"
-    style="display:inline-block; background:#0e0f13; color:#ffffff; font:700 14px/44px Arial, sans-serif; 
-           padding:0 24px; border-radius:24px; border:1px solid #5400ff;">
-    💬 Falar com um especialista agora
+    style="display:inline-block; background:#25D366; color:#ffffff; font:700 14px/44px Arial, sans-serif; 
+           padding:0 24px; border-radius:24px; border:1px solid #1a1f29;">
+    💬 Falar com um Especialista Agora
   </a>
 </td>
 </tr>
