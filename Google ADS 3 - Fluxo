@@ -1,162 +1,150 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <title>📈 Google Ads sob medida para seu negócio imobiliário</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <style>
-    body, table, td, a {
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-    table, td {
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-    img {
-      border: 0;
-      outline: none;
-      text-decoration: none;
-      display: block;
-      max-width: 100%;
-      height: auto;
-    }
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-    body {
-      margin: 0;
-      padding: 0;
-      background-color: #f5f5f5;
-      font-family: “Helvetica Neue”, Arial, sans-serif;
-      color: #333333;
-    }
-    .container {
-      width: 100%;
-      max-width: 600px;
-      margin: 0 auto;
-      background-color: #ffffff;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    .padding {
-      padding: 24px;
-    }
-    .btn {
-      display: inline-block;
-      background-color: #0052cc;
-      color: #ffffff;
-      font-weight: bold;
-      padding: 14px 28px;
-      border-radius: 6px;
-      text-align: center;
-    }
-    .btn-secondary {
-      background-color: #00a79d;
-    }
-    h1 {
-      margin: 0 0 16px 0;
-      font-size: 24px;
-      line-height: 32px;
-      color: #111111;
-    }
-    p {
-      margin: 0 0 16px 0;
-      line-height: 1.5;
-      font-size: 15px;
-      color: #555555;
-    }
-    .features {
-      margin-top: 8px;
-    }
-    .features li {
-      margin-bottom: 8px;
-      list-style: none;
-      padding-left: 20px;
-      position: relative;
-    }
-    .features li:before {
-      content: "✔";
-      position: absolute;
-      left: 0;
-      color: #00a79d;
-    }
-    .footer {
-      font-size: 12px;
-      color: #999999;
-      text-align: center;
-      padding: 16px;
-    }
-    @media screen and (max-width: 600px) {
-      .padding {
-        padding: 16px;
-      }
-      h1 {
-        font-size: 20px;
-        line-height: 28px;
-      }
-    }
-  </style>
+<meta charset="utf-8">
+<title>🚀 Gere leads qualificados com Google Ads — Head Marketing</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  body,table,td,a {
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+  }
+  table,td {
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+  }
+  img {
+    border:0; outline:none; text-decoration:none; display:block; max-width:100%; height:auto;
+  }
+  a { text-decoration:none; color:inherit; }
+  body {
+    margin:0; padding:0;
+    background-color:#0B0D11;
+    font-family:'Helvetica Neue',Arial,sans-serif;
+  }
+  .container {
+    width:100%; max-width:600px;
+    margin:0 auto;
+    background-color:#15171C;
+    border-radius:12px;
+    overflow:hidden;
+  }
+  .padding { padding:28px 32px; }
+  h1 {
+    font-size:26px; line-height:34px;
+    font-weight:700;
+    color:#ffffff;
+    margin:0 0 18px 0;
+  }
+  p {
+    font-size:15px; line-height:1.6;
+    color:#d9d9e3;
+    margin:0 0 18px 0;
+  }
+  .btn {
+    display:inline-block;
+    background-color:#00C6AE;
+    color:#ffffff;
+    font-weight:700;
+    font-size:16px;
+    line-height:22px;
+    padding:14px 32px;
+    border-radius:30px;
+    text-align:center;
+    transition:all .25s ease;
+  }
+  .btn:hover { background-color:#00b59f; }
+  .btn-alt {
+    background-color:transparent;
+    color:#00C6AE;
+    border:1.5px solid #00C6AE;
+  }
+  ul { margin:0; padding:0; list-style:none; }
+  ul li {
+    margin-bottom:10px;
+    padding-left:22px;
+    position:relative;
+    color:#e0e0e0;
+    font-size:15px;
+  }
+  ul li::before {
+    content:"✔";
+    position:absolute;
+    left:0;
+    color:#00C6AE;
+  }
+  .footer {
+    font-size:12px;
+    color:#a1a1b5;
+    text-align:center;
+    padding:20px;
+  }
+  @media screen and (max-width:600px){
+    .padding { padding:22px; }
+    h1 { font-size:22px; line-height:30px; }
+  }
+</style>
 </head>
 <body>
-  <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td align="center" style="padding: 24px 12px;">
-        <table class="container" cellpadding="0" cellspacing="0" border="0">
-          
-          <!-- Header / Logo opcional -->
-          <tr>
-            <td class="padding" align="center">
-              <!-- Se tiver logo, insira aqui -->
-              <img src="https://res.cloudinary.com/dqpcv3k4p/image/upload/v1759193447/Perfil-IG_xfemlw.png" alt="Head Marketing" width="80" style="margin-bottom:16px;">
-            </td>
-          </tr>
-          
-          <!-- Título principal -->
-          <tr>
-            <td class="padding">
-              <h1>Google Ads que converte para corretores e construtoras</h1>
-              <p>
-                Pare de pagar por cliques que não viram negócio. Na <strong>Head Marketing</strong>, criamos campanhas direcionadas para quem *realmente* está procurando imóveis ou empreendimentos — e entregamos leads prontos para negociar.
-              </p>
-              
-              <div style="text-align:center; margin:24px 0;">
-                <a href="https://campanhasdegoogleads.com.br/" class="btn">Quero Ver Meu ROI Crescer</a>
-              </div>
-              
-              <p>
-                Sabemos que no mercado imobiliário, cada lead importa. Por isso, nossa abordagem é:
-              </p>
-              <ul class="features">
-                <li>Segmentação geográfica + faixa de preço + intenção na busca</li>
-                <li>Otimização contínua com dados reais (o que funciona, aumentamos)</li>
-                <li>Relatórios claros — você sabe quanto está pagando por lead</li>
-                <li>Integração com WhatsApp, CRM ou sistema de vendas</li>
-              </ul>
-              
-              <p>
-                Sua campanha já pode estar no ar e atraindo clientes qualificados. Chega de desperdício de verba — com a Head você aposta *onde dá retorno*.
-              </p>
-              
-              <div style="text-align:center; margin:24px 0;">
-                <a href="https://wa.me/5547999231666" class="btn btn-secondary">Falar com Especialista</a>
-              </div>
-            </td>
-          </tr>
-          
-          <!-- Rodapé -->
-          <tr>
-            <td class="footer">
-              Enviado por <strong>Head Marketing</strong> • Especialistas em Google Ads para imóveis e construção<br>
-              <a href="https://headmarketingeprodutora.com.br/?page_id=3" style="color:#999999;">Política de Privacidade</a> •  
-              <a href="#" style="color:#999999;">Descadastrar</a>
-            </td>
-          </tr>
-          
-        </table>
-      </td>
-    </tr>
-  </table>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td align="center" style="padding:28px 12px;">
+
+<table role="presentation" width="600" class="container">
+
+<!-- Logo -->
+<tr>
+<td align="center" style="padding:32px 0 12px;">
+  <img src="https://res.cloudinary.com/dqpcv3k4p/image/upload/v1759193447/Perfil-IG_xfemlw.png" alt="Head Marketing" width="72" style="border-radius:8px;">
+</td>
+</tr>
+
+<!-- Conteúdo -->
+<tr><td class="padding" align="left">
+  <h1>Mais leads qualificados para corretores, construtoras e imobiliárias</h1>
+  <p>
+    Na <strong>Head Marketing</strong>, criamos campanhas de <strong>Google Ads</strong> que posicionam sua marca exatamente na frente de quem está
+    <em>procurando o imóvel ideal</em>. Você foca nas vendas — nós cuidamos da performance.
+  </p>
+
+  <div style="text-align:center; margin:30px 0 24px;">
+    <a href="https://campanhasdegoogleads.com.br/" class="btn" target="_blank">🚀 Quero Gerar Mais Leads Agora</a>
+  </div>
+
+  <p style="color:#bdbdcf;">Com a gestão profissional da Head Marketing, você tem:</p>
+  <ul>
+    <li>Segmentação precisa por cidade, preço e tipo de imóvel</li>
+    <li>Otimizações semanais focadas em custo por lead</li>
+    <li>Integração direta com WhatsApp ou CRM</li>
+    <li>Relatórios simples e transparentes</li>
+  </ul>
+
+  <div style="text-align:center; margin:36px 0 20px;">
+    <a href="https://campanhasdegoogleads.com.br/" class="btn-alt" target="_blank">👀 Ver Como Funciona</a>
+  </div>
+
+  <p>
+    Nosso foco é <strong>entregar resultado real</strong> — mais visitas, mais contatos e mais vendas.  
+    Descubra como as campanhas da Head estão ajudando empresas do setor imobiliário a crescer mês após mês.
+  </p>
+
+  <div style="text-align:center; margin:32px 0 8px;">
+    <a href="https://wa.me/5547999231666" class="btn" target="_blank" style="background-color:#25D366;">💬 Falar com um Especialista</a>
+  </div>
+
+</td></tr>
+
+<!-- Rodapé -->
+<tr><td class="footer">
+  Enviado por <b>HEAD MARKETING</b> • Especialistas em Google Ads para o setor imobiliário<br>
+  <a href="https://headmarketingeprodutora.com.br/?page_id=3" style="color:#00C6AE;">Política de Privacidade</a> • 
+  <a href="#" style="color:#00C6AE;">Descadastrar</a>
+</td></tr>
+
+</table>
+
+</td></tr>
+</table>
+
 </body>
 </html>
