@@ -1,151 +1,162 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-<meta charset="utf-8">
-<title>🚀 Gere mais vendas com Google Ads gerenciado pela Head Marketing</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<style>
-  body,table,td,a{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
-  table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
-  img{ -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; display:block; }
-  a{ text-decoration:none; }
-  body{ margin:0; padding:0; background-color:#494294; }
-
-  @media screen and (max-width:600px){
-    .container{ width:100%!important; }
-    .px{ padding-left:18px!important; padding-right:18px!important; }
-    .stack{ display:block!important; width:100%!important; }
-  }
-</style>
+  <meta charset="utf-8">
+  <title>📈 Google Ads sob medida para seu negócio imobiliário</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body, table, td, a {
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    table, td {
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+    img {
+      border: 0;
+      outline: none;
+      text-decoration: none;
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      font-family: “Helvetica Neue”, Arial, sans-serif;
+      color: #333333;
+    }
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .padding {
+      padding: 24px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #0052cc;
+      color: #ffffff;
+      font-weight: bold;
+      padding: 14px 28px;
+      border-radius: 6px;
+      text-align: center;
+    }
+    .btn-secondary {
+      background-color: #00a79d;
+    }
+    h1 {
+      margin: 0 0 16px 0;
+      font-size: 24px;
+      line-height: 32px;
+      color: #111111;
+    }
+    p {
+      margin: 0 0 16px 0;
+      line-height: 1.5;
+      font-size: 15px;
+      color: #555555;
+    }
+    .features {
+      margin-top: 8px;
+    }
+    .features li {
+      margin-bottom: 8px;
+      list-style: none;
+      padding-left: 20px;
+      position: relative;
+    }
+    .features li:before {
+      content: "✔";
+      position: absolute;
+      left: 0;
+      color: #00a79d;
+    }
+    .footer {
+      font-size: 12px;
+      color: #999999;
+      text-align: center;
+      padding: 16px;
+    }
+    @media screen and (max-width: 600px) {
+      .padding {
+        padding: 16px;
+      }
+      h1 {
+        font-size: 20px;
+        line-height: 28px;
+      }
+    }
+  </style>
 </head>
-<body style="margin:0; padding:0; background-color:#494294;">
-
-<!-- Preheader -->
-<div style="display:none; max-height:0; overflow:hidden; opacity:0; visibility:hidden;">
-Aumente suas vendas com campanhas de Google Ads gerenciadas pela Head Marketing.
-</div>
-
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td align="center" style="padding:24px 12px;">
-
-<table role="presentation" width="600" class="container" style="width:600px; background-color:#494294; border-radius:12px; overflow:hidden;">
-
-<!-- Header -->
-<tr>
-<td align="left" class="px" style="padding:22px 32px; background:#0b0d11;">
-<table width="100%">
-<tr>
-  <td width="44"><img src="https://res.cloudinary.com/dqpcv3k4p/image/upload/v1759193447/Perfil-IG_xfemlw.png" width="44" height="44" style="border-radius:8px;"></td>
-  <td align="right" style="font:600 14px Arial, sans-serif; color:#ffffff;">Gestão Estratégica de Google Ads • Head Marketing</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- Hero -->
-<tr>
-<td align="left" class="px" style="padding:28px 32px 0 32px;">
-  <h1 style="margin:0 0 16px; font:700 28px/34px Arial, sans-serif; color:#ffffff;">
-    Acelere suas vendas com campanhas inteligentes de Google Ads criadas pela <u>Head Marketing</u>
-  </h1>
-
-  <div style="text-align:center; margin:0 0 20px;">
-    <a href="https://campanhasdegoogleads.com.br/" target="_blank"
-      style="display:inline-block; background:#00C6AE; color:#ffffff; font:700 17px/50px Arial, sans-serif; 
-             padding:0 34px; border-radius:28px; text-align:center; min-width:260px; 
-             box-shadow:0 0 18px rgba(0,198,174,0.6);">
-      🚀 Quero Aumentar Meus Resultados
-    </a>
-  </div>
-
-  <p style="font:400 15px/22px Arial, sans-serif; color:#e0e2f0; margin:0;">
-    A <b>Head Marketing</b> é especializada em gerar resultados reais através de campanhas de Google Ads.  
-    Com uma equipe experiente e metodologia própria de otimização, criamos anúncios que aparecem no momento certo — para o público certo.
-  </p>
-</td>
-</tr>
-
-<!-- Benefícios -->
-<tr>
-<td class="px" style="padding:24px 32px 0 32px;">
-  <table role="presentation" width="100%" style="background:rgba(0,0,0,0.3); border-radius:12px;">
+<body>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
-      <td style="padding:20px; font:400 15px/24px Arial, sans-serif; color:#ffffff;">
-        <strong style="display:block; margin-bottom:8px; font-weight:700; color:#00C6AE;">🎯 Por que escolher a Head Marketing:</strong>
-        ✅ Gestão completa e estratégica de campanhas Google Ads<br>
-        ✅ Análises e otimizações semanais focadas em conversão<br>
-        ✅ Segmentação inteligente por cidade, perfil e intenção de busca<br>
-        ✅ Relatórios claros de desempenho e custo por lead<br>
-        ✅ Suporte humano e acompanhamento constante
+      <td align="center" style="padding: 24px 12px;">
+        <table class="container" cellpadding="0" cellspacing="0" border="0">
+          
+          <!-- Header / Logo opcional -->
+          <tr>
+            <td class="padding" align="center">
+              <!-- Se tiver logo, insira aqui -->
+              <img src="https://res.cloudinary.com/dqpcv3k4p/image/upload/v1759193447/Perfil-IG_xfemlw.png" alt="Head Marketing" width="80" style="margin-bottom:16px;">
+            </td>
+          </tr>
+          
+          <!-- Título principal -->
+          <tr>
+            <td class="padding">
+              <h1>Google Ads que converte para corretores e construtoras</h1>
+              <p>
+                Pare de pagar por cliques que não viram negócio. Na <strong>Head Marketing</strong>, criamos campanhas direcionadas para quem *realmente* está procurando imóveis ou empreendimentos — e entregamos leads prontos para negociar.
+              </p>
+              
+              <div style="text-align:center; margin:24px 0;">
+                <a href="https://campanhasdegoogleads.com.br/" class="btn">Quero Ver Meu ROI Crescer</a>
+              </div>
+              
+              <p>
+                Sabemos que no mercado imobiliário, cada lead importa. Por isso, nossa abordagem é:
+              </p>
+              <ul class="features">
+                <li>Segmentação geográfica + faixa de preço + intenção na busca</li>
+                <li>Otimização contínua com dados reais (o que funciona, aumentamos)</li>
+                <li>Relatórios claros — você sabe quanto está pagando por lead</li>
+                <li>Integração com WhatsApp, CRM ou sistema de vendas</li>
+              </ul>
+              
+              <p>
+                Sua campanha já pode estar no ar e atraindo clientes qualificados. Chega de desperdício de verba — com a Head você aposta *onde dá retorno*.
+              </p>
+              
+              <div style="text-align:center; margin:24px 0;">
+                <a href="https://wa.me/5547999231666" class="btn btn-secondary">Falar com Especialista</a>
+              </div>
+            </td>
+          </tr>
+          
+          <!-- Rodapé -->
+          <tr>
+            <td class="footer">
+              Enviado por <strong>Head Marketing</strong> • Especialistas em Google Ads para imóveis e construção<br>
+              <a href="https://headmarketingeprodutora.com.br/?page_id=3" style="color:#999999;">Política de Privacidade</a> •  
+              <a href="#" style="color:#999999;">Descadastrar</a>
+            </td>
+          </tr>
+          
+        </table>
       </td>
     </tr>
   </table>
-</td>
-</tr>
-
-<!-- CTA principal -->
-<tr>
-<td align="center" style="padding:28px 32px 0;">
-  <a href="https://campanhasdegoogleads.com.br/" target="_blank"
-    style="display:inline-block; background:#00C6AE; color:#ffffff; font:700 17px/50px Arial, sans-serif; 
-           padding:0 34px; border-radius:28px; text-align:center; min-width:260px; 
-           box-shadow:0 0 20px rgba(0,198,174,0.6);">
-    💡 Quero Vender Mais com Google Ads
-  </a>
-  <p style="font:400 13px/20px Arial, sans-serif; color:#e0e2f0; margin:10px 0 0;">
-    *Diagnóstico gratuito — descubra oportunidades de crescimento no seu negócio.
-  </p>
-</td>
-</tr>
-
-<!-- Destaques -->
-<tr>
-<td class="px" style="padding:26px 32px 0;">
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:12px; background:rgba(0,0,0,0.25); border-radius:10px; color:#ffffff; font:400 14px/20px Arial, sans-serif;">
-        <strong>📈 Estratégia que gera resultado</strong><br> Campanhas criadas com foco em performance e ROI.
-      </td>
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:12px; background:rgba(0,0,0,0.25); border-radius:10px; color:#ffffff; font:400 14px/20px Arial, sans-serif;">
-        <strong>⚙️ Gestão profissional</strong><br> Ajustes diários e monitoramento constante.
-      </td>
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:12px; background:rgba(0,0,0,0.25); border-radius:10px; color:#ffffff; font:400 14px/20px Arial, sans-serif;">
-        <strong>🤝 Parceria transparente</strong><br> Você acompanha tudo, em tempo real.
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-
-<!-- CTA secundário -->
-<tr>
-<td align="center" style="padding:22px 32px 0;">
-  <a href="https://wa.me/5547999231666" target="_blank"
-    style="display:inline-block; background:#25D366; color:#ffffff; font:700 14px/44px Arial, sans-serif; 
-           padding:0 24px; border-radius:24px; border:none; box-shadow:0 0 12px rgba(37,211,102,0.5);">
-    💬 Falar com um Especialista Agora
-  </a>
-</td>
-</tr>
-
-<!-- Rodapé -->
-<tr>
-<td class="px" style="padding:28px 32px 32px;">
-  <p style="font:400 12px/18px Arial, sans-serif; color:#e0e2f0; margin:0 0 8px;">
-    Enviado por <b>HEAD MARKETING E VÍDEO</b> • Agência especializada em Google Ads, Social Mídia e Webdesign.
-  </p>
-  <p style="font:400 12px/18px Arial, sans-serif; color:#e0e2f0; margin:0;">
-    <a href="https://headmarketingeprodutora.com.br/?page_id=3" target="_blank" style="color:#00C6AE; text-decoration:underline;">Política de Privacidade</a> • 
-    <a href="https://app.rdstation.email/descadastrar/f394bb77-7c39-4457-9299-020e99100ca3?utm_medium=email&utm_campaign=links&utm_source=RD+Station" style="color:#00C6AE; text-decoration:underline;">Descadastrar</a>
-  </p>
-</td>
-</tr>
-
-</table>
-
-</td>
-</tr>
-</table>
 </body>
 </html>
