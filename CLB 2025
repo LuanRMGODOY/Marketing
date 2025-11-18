@@ -1,67 +1,93 @@
-<div style="font-family: Arial, Helvetica, sans-serif; background-color:#f4f4f4; padding:30px;">
-  <div style="max-width:650px; margin:auto; background:white; padding:30px; border-radius:8px; border-left:6px solid #ff8c00; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-    
-    <div style="text-align: center; margin-bottom: 25px;">
-        <img src="https://cntrline.com.br/dist/images/centerline-logo.png" alt="CenterLine" style="max-width: 200px; height: auto; border: 0;">
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centerline | Forjando o Futuro em 2026</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #0d0d0d; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+    <div style="background-color: #0d0d0d; padding: 30px 10px;">
+        <div style="max-width: 650px; margin: auto; background: #ffffff; padding: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #2c2c2c;">
+            
+            <div style="background-color: #1a1a1a; padding: 25px; text-align: center; border-bottom: 3px solid #ff8c00;">
+                <img src="https://cntrline.com.br/dist/images/centerline-logo.png" alt="CenterLine" style="max-width: 200px; height: auto; border: 0;">
+            </div>
+
+            <div style="padding: 30px;">
+                
+                <h1 style="color: #ff8c00; margin-top: 0; font-size: 28px; text-align: center; letter-spacing: 1px;">
+                    CENTERLINE: ENGENHARIA DE PRÓXIMO NÍVEL
+                </h1>
+
+                <p style="font-size: 17px; color: #333333; text-align: center; margin-bottom: 25px;">
+                    **Juntos, Forjando o Sucesso e a Precisão de 2026.**
+                </p>
+
+                <p style="font-size: 16px; color: #555555;">
+                    Prezado(a) **[Nome do Cliente]**,
+                </p>
+
+                <p style="font-size: 16px; color: #555555;">
+                    Em um ano de avanços tecnológicos e metas ambiciosas, a **Centerline Brasil Solda & Automação** agradece por ter sido o seu **parceiro estratégico em alta performance**. Sua confiança valida nosso compromisso com a excelência industrial e a inovação contínua.
+                </p>
+
+                <div style="margin: 30px 0; text-align: center;">
+                    <img src="https://cntrline.com.br/uploads/pages/15a8462b7ecd34.jpg" alt="Robô de soldagem e sistemas automatizados" style="width: 100%; height: auto; border-radius: 8px; border: 2px solid #ff8c00;">
+                </div>
+
+                <hr style="border: none; border-top: 1px dashed #cccccc; margin: 35px 0 25px 0;">
+
+                <h3 style="color: #1a1a1a; margin-bottom: 15px; font-size: 20px;">
+                    📈 Relatório de Progresso 2025: Resultados Concretos
+                </h3>
+
+                <ul style="font-size: 16px; color: #555555; line-height: 1.8; list-style-type: none; padding-left: 0;">
+                    <li style="margin-bottom: 10px;">
+                        <span style="color: #ff8c00; font-weight: bold; margin-right: 5px;">&rsaquo;</span> **Recorde de Eficiência:** Atingimos novos patamares de otimização em ciclos de soldagem, traduzindo-se em **aumento tangível da sua produtividade**.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <span style="color: #ff8c00; font-weight: bold; margin-right: 5px;">&rsaquo;</span> **Upgrade em Engenharia:** Expandimos nossa capacidade de projeto e prototipagem, oferecendo soluções mais ágeis e perfeitamente calibradas às suas especificações.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <span style="color: #ff8c00; font-weight: bold; margin-right: 5px;">&rsaquo;</span> **Validação 4.0:** Reforçamos o investimento em tecnologias de inspeção e controle de qualidade para garantir a integridade de cada componente.
+                    </li>
+                </ul>
+
+                <h3 style="color: #1a1a1a; margin-bottom: 10px; margin-top: 40px; font-size: 20px;">
+                    🚀 Nosso Foco Estratégico para 2026
+                </h3>
+                <p style="font-size: 16px; color: #555555;">
+                    Em 2026, nossa missão é consolidar a sua liderança no mercado, através de soluções que antecipam as demandas do futuro. Conte com a Centerline para garantir que sua produção opere no seu pico máximo de **velocidade e confiabilidade**.
+                </p>
+
+                <div style="text-align: center; margin: 40px 0;">
+                    <a href="https://cntrline.com.br/" target="_blank" style="background-color: #ff8c00; color: #1a1a1a; padding: 14px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 17px; display: inline-block; box-shadow: 0 4px 10px rgba(255,140,0,0.4); transition: background-color 0.3s;">
+                        Conecte-se ao Futuro da Automação
+                    </a>
+                </div>
+
+                <p style="font-size: 16px; color: #555555; text-align: center; margin-top: 40px;">
+                    Que o próximo ano seja a base para a construção de resultados extraordinários. Desejamos a você e sua equipe um final de ciclo repleto de sucesso e um 2026 de grandes inovações!
+                </p>
+
+            </div>
+
+            <div style="background-color: #1a1a1a; padding: 25px; text-align: center; color: #aaaaaa; font-size: 14px; border-top: 1px solid #2c2c2c;">
+                <p style="margin: 0 0 10px 0;">
+                    Atenciosamente,<br>
+                    **[Seu Nome / Direção]** | Centerline Brasil
+                </p>
+                <p style="margin: 0; font-size: 12px;">
+                    <span style="color: #ff8c00;">[Telefone]</span> | <a href="mailto:[E-mail]" style="color: #ff8c00; text-decoration: none;">[E-mail]</a> | <a href="https://cntrline.com.br/" style="color: #ff8c00; text-decoration: none;">cntrline.com.br</a>
+                </p>
+            </div>
+
+        </div>
+
+        <div style="text-align: center; margin-top: 20px; font-size: 12px; color: #555555;">
+            © 2025 Centerline Brasil Solda & Automação — Tecnologia que Forja o Amanhã.
+        </div>
     </div>
-    
-    <h1 style="color:#333333; margin-top:0; font-size: 24px; text-align: center;">Juntos, Forjando o Sucesso de 2026.</h1>
-
-    <p style="font-size:16px; color:#333;">
-      Prezado(a) **[Nome do Cliente]**,
-    </p>
-
-    <p style="font-size:16px; color:#333;">
-      Em nome de toda a equipe da **Centerline Brasil Solda & Automação**, nosso sincero agradecimento por confiar em nossa engenharia e tecnologia em 2025. Sua parceria é o pilar que nos impulsiona a buscar a excelência em performance e precisão.
-    </p>
-
-    <div style="margin: 30px 0; text-align: center;">
-        <img src="https://cntrline.com.br/uploads/pages/15a8462b7ecd34.jpg" alt="Equipamento de Soldagem e Automação Industrial da Centerline" style="width: 100%; height: auto; border-radius: 6px;">
-    </div>
-
-    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
-
-    <h3 style="color:#ff8c00; margin-bottom:10px;">📈 2025: Nossas Conquistas em Performance e Precisão</h3>
-
-    <ul style="font-size:16px; color:#333; line-height:1.8; list-style-type: none; padding-left: 20px;">
-        <li style="margin-bottom: 10px;">
-            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Otimização da Produtividade:** Implementamos novas gerações de sistemas de soldagem, garantindo tolerâncias mais apertadas e ciclos de produção mais rápidos para sua indústria.
-        </li>
-        <li style="margin-bottom: 10px;">
-            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Expansão da Engenharia:** Fortalecemos o time de projeto e desenvolvimento, oferecendo maior agilidade na criação de soluções customizadas e suporte técnico especializado.
-        </li>
-        <li style="margin-bottom: 10px;">
-            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Inovação Contínua:** Investimos em equipamentos de medição 3D e softwares PLM para validar processos automatizados, assegurando a mais alta qualidade nos componentes fabricados.
-        </li>
-    </ul>
-
-    <h3 style="color:#ff8c00; margin-bottom:10px; margin-top:30px;">🎯 Nosso Compromisso para 2026: Liderança em Tecnologia</h3>
-    <p style="font-size:16px; color:#333;">
-      Em 2026, continuaremos a ser o seu parceiro estratégico, entregando **soluções de automação e soldagem** que definem o padrão da indústria. Estamos prontos para enfrentar novos desafios com a inovação, qualidade e confiança que você espera da Centerline.
-    </p>
-
-    <div style="text-align: center; margin: 40px 0;">
-        <a href="https://cntrline.com.br/" target="_blank" style="background-color: #ff8c00; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; display: inline-block;">
-            Explore Nossas Soluções para 2026
-        </a>
-    </div>
-
-    <p style="font-size:16px; color:#333;">
-      Que o próximo ano seja repleto de novos projetos e crescimento mútuo. Desejamos a você, sua família e toda a sua equipe um final de ano de descanso merecido e um novo ciclo profissional de grandes oportunidades.
-    </p>
-
-    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
-
-    <p style="font-size:16px; color:#333; margin-top:35px;">
-      Atenciosamente,<br>
-      **[Seu Nome / Direção]**<br>
-      Centerline Brasil Solda & Automação<br>
-      <span style="color:#555; font-size: 14px;">[Telefone] | [E-mail] | <a href="https://cntrline.com.br/" style="color:#ff8c00; text-decoration: none;">cntrline.com.br</a></span>
-    </p>
-
-  </div>
-
-  <div style="text-align:center; margin-top:20px; font-size:12px; color:#777;">
-    Centerline Brasil Solda & Automação — Construindo o futuro da manufatura.
-  </div>
-</div>
+</body>
+</html>
