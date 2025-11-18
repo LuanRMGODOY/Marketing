@@ -1,57 +1,67 @@
 <div style="font-family: Arial, Helvetica, sans-serif; background-color:#f4f4f4; padding:30px;">
-  <div style="max-width:650px; margin:auto; background:white; padding:30px; border-radius:8px; border-left:6px solid #ff8c00;">
+  <div style="max-width:650px; margin:auto; background:white; padding:30px; border-radius:8px; border-left:6px solid #ff8c00; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     
-    <h2 style="color:#333333; margin-top:0;">Obrigado por fazer parte da nossa jornada em 2025!</h2>
+    <div style="text-align: center; margin-bottom: 25px;">
+        <img src="https://cntrline.com.br/dist/images/centerline-logo.png" alt="CenterLine" style="max-width: 200px; height: auto; border: 0;">
+    </div>
+    
+    <h1 style="color:#333333; margin-top:0; font-size: 24px; text-align: center;">Juntos, Forjando o Sucesso de 2026.</h1>
 
-    <p style="font-size:16px; color:#333;">
-      Olá <strong>[Nome do Cliente]</strong>,
-    </p>
+    <p style="font-size:16px; color:#333;">
+      Prezado(a) **[Nome do Cliente]**,
+    </p>
 
-    <p style="font-size:16px; color:#333;">
-      Em nome de toda a equipe da <strong>Centerline Brasil Solda & Automação</strong>, queremos agradecer
-      pela parceria, confiança e presença ao longo de 2025.
-    </p>
+    <p style="font-size:16px; color:#333;">
+      Em nome de toda a equipe da **Centerline Brasil Solda & Automação**, nosso sincero agradecimento por confiar em nossa engenharia e tecnologia em 2025. Sua parceria é o pilar que nos impulsiona a buscar a excelência em performance e precisão.
+    </p>
 
-    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
+    <div style="margin: 30px 0; text-align: center;">
+        <img src="https://cntrline.com.br/uploads/pages/15a8462b7ecd34.jpg" alt="Equipamento de Soldagem e Automação Industrial da Centerline" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
 
-    <h3 style="color:#ff8c00; margin-bottom:10px;">🛠️ Conquistas que compartilhamos este ano</h3>
+    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
 
-    <ul style="font-size:16px; color:#333; line-height:1.6;">
-      <li>Melhoramos nossos processos de automação e soldagem para gerar maior precisão e produtividade.</li>
-      <li>Expandimos nossa estrutura técnica, garantindo mais agilidade no atendimento e suporte.</li>
-      <li>Investimos em novas tecnologias industriais para oferecer soluções ainda mais completas.</li>
-    </ul>
+    <h3 style="color:#ff8c00; margin-bottom:10px;">📈 2025: Nossas Conquistas em Performance e Precisão</h3>
 
-    <h3 style="color:#ff8c00; margin-bottom:10px; margin-top:30px;">💡 Nosso compromisso para 2026</h3>
-    <p style="font-size:16px; color:#333;">
-      Continuaremos trabalhando para entregar inovação, qualidade e confiança em cada projeto. Estamos prontos 
-      para novos desafios e para seguir contribuindo para o crescimento da sua empresa.
-    </p>
+    <ul style="font-size:16px; color:#333; line-height:1.8; list-style-type: none; padding-left: 20px;">
+        <li style="margin-bottom: 10px;">
+            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Otimização da Produtividade:** Implementamos novas gerações de sistemas de soldagem, garantindo tolerâncias mais apertadas e ciclos de produção mais rápidos para sua indústria.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Expansão da Engenharia:** Fortalecemos o time de projeto e desenvolvimento, oferecendo maior agilidade na criação de soluções customizadas e suporte técnico especializado.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <span style="color: #ff8c00; font-weight: bold;">•</span> &nbsp; **Inovação Contínua:** Investimos em equipamentos de medição 3D e softwares PLM para validar processos automatizados, assegurando a mais alta qualidade nos componentes fabricados.
+        </li>
+    </ul>
 
-    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
+    <h3 style="color:#ff8c00; margin-bottom:10px; margin-top:30px;">🎯 Nosso Compromisso para 2026: Liderança em Tecnologia</h3>
+    <p style="font-size:16px; color:#333;">
+      Em 2026, continuaremos a ser o seu parceiro estratégico, entregando **soluções de automação e soldagem** que definem o padrão da indústria. Estamos prontos para enfrentar novos desafios com a inovação, qualidade e confiança que você espera da Centerline.
+    </p>
 
-    <p style="font-size:16px; color:#333;">
-      Agradecemos sua parceria e esperamos continuar caminhando juntos em 2026, construindo resultados ainda maiores.
-    </p>
+    <div style="text-align: center; margin: 40px 0;">
+        <a href="https://cntrline.com.br/" target="_blank" style="background-color: #ff8c00; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; display: inline-block;">
+            Explore Nossas Soluções para 2026
+        </a>
+    </div>
 
-    <p style="font-size:16px; color:#333;">
-      Desejamos a você e à sua equipe um final de ano de grandes conquistas e um novo ciclo repleto de oportunidades.
-    </p>
+    <p style="font-size:16px; color:#333;">
+      Que o próximo ano seja repleto de novos projetos e crescimento mútuo. Desejamos a você, sua família e toda a sua equipe um final de ano de descanso merecido e um novo ciclo profissional de grandes oportunidades.
+    </p>
 
-    <p style="font-size:16px; color:#333;">
-      Conte sempre conosco. Estamos à disposição!
-    </p>
+    <hr style="border:none; border-top:1px solid #ddd; margin:25px 0;">
 
-    <p style="font-size:16px; color:#333; margin-top:35px;">
-      Atenciosamente,<br>
-      <strong>[Seu Nome]</strong><br>
-      Centerline Brasil Solda & Automação<br>
-      <span style="color:#555;">[Telefone] | [E-mail] | [Site]</span>
-    </p>
+    <p style="font-size:16px; color:#333; margin-top:35px;">
+      Atenciosamente,<br>
+      **[Seu Nome / Direção]**<br>
+      Centerline Brasil Solda & Automação<br>
+      <span style="color:#555; font-size: 14px;">[Telefone] | [E-mail] | <a href="https://cntrline.com.br/" style="color:#ff8c00; text-decoration: none;">cntrline.com.br</a></span>
+    </p>
 
-  </div>
+  </div>
 
-  <div style="text-align:center; margin-top:20px; font-size:12px; color:#777;">
-    © 2025 Centerline Brasil Solda & Automação — Todos os direitos reservados.
-  </div>
+  <div style="text-align:center; margin-top:20px; font-size:12px; color:#777;">
+    Centerline Brasil Solda & Automação — Construindo o futuro da manufatura.
+  </div>
 </div>
