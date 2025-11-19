@@ -1,209 +1,113 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="utf-8">
-<title>Seu Novo Lar: Residencial Conselheiro ARP</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<style>
-  /* Reset Styles */
-  body,table,td,a{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
-  table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
-  img{ -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; display:block; }
-  a{ text-decoration:none; }
-  /* Fundo Claro */
-  body{ margin:0; padding:0; background-color:#f5f5f5; }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Residencial Conselheiro Arp: Seu Novo Nível de Exclusividade em Joinville</title>
+    <style type="text/css">
+        /* Reset de Estilos Básicos */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+        a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
 
-  /* Responsive Styles */
-  @media screen and (max-width:600px){
-    .container{ width:100%!important; }
-    .px{ padding-left:20px!important; padding-right:20px!important; } /* Ajuste de padding responsivo */
-    .stack{ display:block!important; width:100%!important; padding-left:0!important; padding-right:0!important; margin-bottom:12px; }
-    .stack-padding{ padding-left:20px!important; padding-right:20px!important; }
-  }
-</style>
+        /* Estilos do Email (Cores baseadas em sofisticação: Tons neutros, Dourado/Azul Marinho como destaque) */
+        .container { width: 100%; max-width: 600px; }
+        .header { background-color: #003366; color: #FFFFFF; padding: 20px 0; text-align: center; } /* Azul Marinho Escuro */
+        .content { background-color: #FFFFFF; padding: 30px 20px; text-align: center; }
+        .highlight-text { color: #B8860B; font-weight: bold; } /* Dourado */
+        .cta-button { background-color: #003366; color: #FFFFFF !important; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block; }
+        .footer { background-color: #F4F4F4; color: #666666; padding: 20px; font-size: 12px; text-align: center; }
+        .feature-box { background-color: #F9F9F9; padding: 20px; margin-bottom: 20px; border-radius: 8px; border-left: 5px solid #003366; }
+    </style>
 </head>
-<!-- Fundo principal em cinza claro para flutuar o conteúdo -->
-<body style="margin:0; padding:0; background-color:#f5f5f5;">
+<body style="margin: 0; padding: 0; background-color: #EFEFEF;">
 
-<!-- Pré-cabeçalho / Snippet -->
-<div style="display:none; max-height:0; overflow:hidden; opacity:0; visibility:hidden;">
-O conforto, a segurança e a área de lazer que você sempre quis estão no Residencial Conselheiro ARP. Condições de lançamento!
-</div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+        <tr>
+            <td align="center" style="padding: 0 10px;">
+                <table class="container" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; max-width: 600px;">
 
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td align="center" style="padding:24px 12px;">
+                    <tr>
+                        <td class="header" style="background-color: #003366; color: #FFFFFF; padding: 20px 0; text-align: center;">
+                            <h1 style="margin: 0; font-size: 24px;">RESIDENCIAL CONSELHEIRO ARP</h1>
+                            <p style="margin: 5px 0 0 0; font-size: 14px;">A.S. Ramos Empreendimentos</p>
+                        </td>
+                    </tr>
 
-<!-- Container principal branco, simulando um cartão -->
-<table role="presentation" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
+                    <tr>
+                        <td align="center" style="padding: 0;">
+                            <img src="[URL_DA_IMAGEM_DE_DESTAQUE]" alt="Fachada elegante do Residencial Conselheiro Arp" width="600" style="display: block; width: 100%; max-width: 600px; height: auto;">
+                        </td>
+                    </tr>
 
-<!-- Header - Logo e Título -->
-<tr>
-<!-- NOVO: Fundo azul mais rico (#003366) para o cabeçalho -->
-<td align="left" class="px" style="padding:24px 40px; background:#003366;">
-<table width="100%">
-<tr>
-  <!-- Placeholder para Logo do Empreendimento (ARP) -->
-  <td width="44"><img src="https://placehold.co/44x44/ffffff/003366?text=ARP" width="44" height="44" style="border-radius:8px;"></td>
-  <!-- Texto branco. Tipografia: Helvetica Neue/Segoe UI -->
-  <td align="right" style="font:600 15px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#ffffff;">Residencial Conselheiro ARP</td>
-</tr>
-</table>
-</td>
-</tr>
+                    <tr>
+                        <td class="content" style="background-color: #FFFFFF; padding: 30px 20px; text-align: center;">
+                            <h2 style="color: #003366; margin-top: 0; font-size: 26px;">
+                                Onde a <span class="highlight-text">Tradição</span> Encontra o <span class="highlight-text">Luxo</span> em Joinville.
+                            </h2>
+                            <p style="color: #333333; line-height: 1.6; font-size: 16px;">
+                                Você está convidado a vivenciar um novo padrão de exclusividade. No coração do **Bairro América**, o Residencial Conselheiro Arp celebra a união do antigo e do novo, oferecendo um refúgio de sofisticação e conforto inigualáveis.
+                            </p>
+                        </td>
+                    </tr>
 
-<!-- Hero - Título Principal e Introdução -->
-<tr>
-<!-- NOVO: Maior espaçamento horizontal e vertical -->
-<td align="left" class="px" style="padding:36px 40px 0 40px;">
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <h1 style="margin:0 0 18px; font:700 30px/38px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#003366;">
-    🔑 A Chave para o Seu Novo Capítulo de Vida Está Aqui.
-  </h1>
-  
-  <!-- NOVO: Tamanho da fonte e line-height ajustados para mais leitura premium -->
-  <p style="font:400 16px/26px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#333333; margin:0 0 24px;">
-    **Olá, [Nome do Cliente],**
-  </p>
+                    <tr>
+                        <td class="content" style="padding: 10px 20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+                                <tr>
+                                    <td class="feature-box">
+                                        <p style="color: #003366; font-size: 18px; font-weight: bold; margin: 0;">Apartamentos de Alto Padrão</p>
+                                        <p style="color: #666666; margin: 5px 0 0 0;">
+                                            <span class="highlight-text">4 Suítes</span> | <span class="highlight-text">239m² a 368m²</span> de área privativa | Living Integrado.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="feature-box">
+                                        <p style="color: #003366; font-size: 18px; font-weight: bold; margin: 0;">Sua Varanda Gourmet</p>
+                                        <p style="color: #666666; margin: 5px 0 0 0;">
+                                            Varanda Gourmet com <span class="highlight-text">Churrasqueira a Carvão</span>, perfeita para receber com elegância.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="feature-box">
+                                        <p style="color: #003366; font-size: 18px; font-weight: bold; margin: 0;">Lazer Completo e Decorado</p>
+                                        <p style="color: #666666; margin: 5px 0 0 0;">
+                                            Piscina Adulto/Infantil, Salão de Festas, Espaço Kids, Academia, <span class="highlight-text">Spa e mais</span>.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
 
-  <!-- NOVO: Maior espaçamento vertical -->
-  <p style="font:400 16px/26px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#333333; margin:0 0 24px;">
-    Cansado de procurar o lugar ideal que combine localização estratégica, segurança e lazer completo?
-  </p>
-  <!-- NOVO: Maior espaçamento vertical -->
-  <p style="font:400 16px/26px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#333333; margin:0;">
-    O <strong style="color:#0056b3;">Residencial Conselheiro ARP</strong> não é apenas um apartamento; é o palco para os seus melhores momentos. Localizado em uma área que está em constante valorização, oferecemos o equilíbrio perfeito entre a tranquilidade que você merece e a conveniência de estar perto de tudo.
-  </p>
-</td>
-</tr>
+                    <tr>
+                        <td class="content" style="padding: 20px 20px 40px 20px; text-align: center;">
+                            <p style="color: #333333; font-size: 18px; font-weight: bold;">
+                                A exclusividade tem um endereço. Descubra-o.
+                            </p>
+                            <a href="[LINK_DO_SEU_SITE_OU_AGENDA]" target="_blank" class="cta-button" style="background-color: #B8860B; color: #FFFFFF !important; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block; mso-padding-alt: 0; text-underline-on: none;">
+                                <span style="color:#FFFFFF;">AGENDE UMA VISITA EXCLUSIVA</span>
+                            </a>
+                        </td>
+                    </tr>
 
-<!-- Imagem de Destaque -->
-<tr>
-<!-- NOVO: Maior espaçamento vertical -->
-<td align="center" style="padding:30px 40px 10px;">
-  <a href="https://residencialconselheiroarp.com.br/" target="_blank" style="position:relative; display:inline-block;">
-    <!-- Placeholder para uma imagem do empreendimento (ex: fachada ou piscina) -->
-    <img src="https://placehold.co/536x300/003366/ffffff?text=APARTAMENTO+MODELO+ARP" 
-      alt="Apartamento Modelo Residencial Conselheiro ARP" 
-      width="536" style="width:100%; max-width:536px; border-radius:12px;">
-    <!-- Tipografia: Helvetica Neue/Segoe UI. NOVO: Cor de destaque mais profunda -->
-    <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-                background:rgba(0,86,179,0.8); color:#fff; font:700 18px/24px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; 
-                padding:14px 24px; border-radius:50px; border:3px solid #ffffff; text-shadow: 0 1px 2px rgba(0,0,0,0.5);">
-      Veja o Empreendimento
-    </div>
-  </a>
-</td>
-</tr>
+                    <tr>
+                        <td class="footer" style="background-color: #F4F4F4; color: #666666; padding: 20px; font-size: 12px; text-align: center;">
+                            <p style="margin: 0;">Rua Conselheiro Arp, 57 – América, Joinville – SC.</p>
+                            <p style="margin: 5px 0;">Este é um e-mail de marketing da A.S. Ramos Empreendimentos.</p>
+                            <p style="margin: 5px 0 0 0;">
+                                Se não deseja mais receber nossos emails, <a href="[LINK_DE_OPTOUT]" style="color: #003366;">clique aqui para cancelar a inscrição</a>.
+                            </p>
+                        </td>
+                    </tr>
 
-<!-- Destaques (3 Colunas) -->
-<tr>
-<!-- NOVO: Maior espaçamento vertical e horizontal -->
-<td class="px" style="padding:32px 40px 0;">
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="margin:0 0 18px; font:700 22px/28px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#003366;">
-    ✨ O Diferencial que Transforma o Dia a Dia
-  </p>
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <!-- NOVO: Aumentei padding, removi borda para visual mais limpo -->
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:18px; background:#f5f5f5; border-radius:10px; color:#333333; font:400 15px/24px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;">
-        <strong style="color:#0056b3;">🏊 Lazer Completo</strong><br> Piscina, Salão de Festas, Espaço Gourmet e mais!
-      </td>
-      <!-- NOVO: Aumentei padding, removi borda para visual mais limpo -->
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:18px; background:#f5f5f5; border-radius:10px; color:#333333; font:400 15px/24px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; padding-left:18px; padding-right:18px;">
-        <strong style="color:#0056b3;">🔒 Segurança 24h</strong><br> Portaria e monitoramento para total paz de espírito.
-      </td>
-      <!-- NOVO: Aumentei padding, removi borda para visual mais limpo -->
-      <td class="stack" width="33.33%" style="vertical-align:top; padding:18px; background:#f5f5f5; border-radius:10px; color:#333333; font:400 15px/24px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;">
-        <strong style="color:#0056b3;">📍 Localização Premium</strong><br> Perto de escolas, supermercados e vias de acesso.
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
+                </table>
+            </td>
+        </tr>
+    </table>
 
-
-<!-- Benefícios/Lista em Destaque -->
-<tr>
-<!-- NOVO: Maior espaçamento horizontal e vertical -->
-<td class="px" style="padding:32px 40px 0 40px;">
-  <table role="presentation" width="100%" style="background:#ffffff; border-radius:12px;">
-    <tr>
-      <!-- NOVO: Padding maior para mais respiro. Sombra sutil mantida. -->
-      <td style="padding:30px; font:400 16px/26px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#333333; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); border: 1px solid #f0f0f0;">
-        <strong style="display:block; margin-bottom:14px; font-weight:700; color:#003366;">Detalhes que fazem a diferença:</strong>
-        <!-- Cor de acento nas estrelas (cinza sutil) -->
-        <span style="color:#999999;">★</span> Plantas Inteligentes com excelente aproveitamento de espaço<br>
-        <span style="color:#999999;">★</span> Iluminação natural e ventilação otimizadas<br>
-        <span style="color:#999999;">★</span> Ambientes pensados para o convívio familiar<br>
-        <span style="color:#999999;">★</span> **Valorização garantida** devido à localização estratégica
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-
-<!-- CTA principal - Oportunidade e Agendamento -->
-<tr>
-<!-- NOVO: Maior espaçamento vertical -->
-<td align="center" style="padding:36px 40px 0;">
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="font:700 20px/26px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#003366; margin:0 0 18px;">
-    ⏳ Não Perca Esta Oportunidade Única de Lançamento!
-  </p>
-  <a href="https://residencialconselheiroarp.com.br/" target="_blank"
-    <!-- NOVO: Cor de fundo mais profunda (#0056b3). Tipografia: Helvetica Neue/Segoe UI -->
-    style="display:inline-block; background:#0056b3; color:#ffffff; font:700 18px/54px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; 
-           padding:0 40px; border-radius:30px; text-align:center; min-width:280px; 
-           box-shadow:0 8px 20px rgba(0, 86, 179, 0.45);">
-    👇 Quero Agendar Minha Visita
-  </a>
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="font:400 14px/22px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#666666; margin:12px 0 0;">
-    Fale agora com um consultor e descubra as condições de financiamento.
-  </p>
-</td>
-</tr>
-
-<!-- CTA secundário - Contato Direto (WhatsApp) -->
-<tr>
-<!-- NOVO: Maior espaçamento vertical -->
-<td align="center" style="padding:28px 40px 0;">
-  <a href="https://wa.me/55xxYYYYYYYYY" target="_blank"
-    <!-- Tipografia: Helvetica Neue/Segoe UI -->
-    style="display:inline-block; background:#25D366; color:#ffffff; font:700 15px/48px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; 
-           padding:0 30px; border-radius:26px; border:none; box-shadow:0 4px 12px rgba(37,211,102,0.4);">
-    💬 Falar pelo WhatsApp
-  </a>
-</td>
-</tr>
-
-<!-- Rodapé -->
-<tr>
-<!-- NOVO: Maior espaçamento vertical e horizontal -->
-<td class="px" style="padding:32px 40px 32px; background-color:#f5f5f5;">
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="font:400 13px/20px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#666666; margin:0 0 10px;">
-    **Residencial Conselheiro ARP**
-  </p>
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="font:400 13px/20px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#666666; margin:0 0 10px;">
-    Telefone: **[Insira o Telefone do Plantão de Vendas]** • E-mail: **[Insira o E-mail de Contato]**
-  </p>
-  <!-- Tipografia: Helvetica Neue/Segoe UI -->
-  <p style="font:400 13px/20px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif; color:#666666; margin:0;">
-    <!-- Links em azul vibrante -->
-    <a href="#" style="color:#0056b3; text-decoration:underline;">Política de Privacidade</a> • 
-    <a href="#" style="color:#0056b3; text-decoration:underline;">Descadastrar</a>
-  </p>
-</td>
-</tr>
-
-</table>
-
-</td>
-</tr>
-</table>
 </body>
 </html>
